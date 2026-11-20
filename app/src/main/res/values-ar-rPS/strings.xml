@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">دفتر ديون السوبرماركت</string>
+    <string name="customer_details_title">تفاصيل حساب الزبون</string>
+    <string name="total_debt_label">إجمالي المديونية الحالية</string>
+    <string name="hint_amount">المبلغ</string>
+    <string name="hint_item_name">الصنف أو الملاحظة...</string>
+    <string name="btn_add_debt">إضافة الحركة الجديدة</string>
+    <string name="history_label">سجل الحركات والديون</string>
+</resources>
